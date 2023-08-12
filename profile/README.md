@@ -1,4 +1,4 @@
-# Couphone (📝 작성중 08.12.~)
+# Couphone 
 ### KUIT 1기 Couphone 팀 프로젝트 레포지토리! 
 ---
 <img src="https://github.com/KUIT-Couphone/.github/assets/96612168/cf8afda4-1784-4048-964e-36e8edb8d0fe" alt="Example Image" width="650" height="400">
@@ -31,5 +31,6 @@
 <img src="https://github.com/KUIT-Couphone/.github/assets/96612168/e0763824-e61c-4970-924b-10cb87c4230a" alt="Example Image" width="750" height="400">
 
 ### 브랜드 별로 분산된 지류 쿠폰들을 한 곳에 모아 슬기로운 쿠폰 생활을 이끄는 서비스입니다. 🔥
+-> 서비스 소개 관련 노션 링크 추가 + 시연 화면 등등
 
  

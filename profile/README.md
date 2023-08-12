@@ -1,4 +1,4 @@
-# Couphone 
+# 🖃 Couphone 
 ### 👪 KUIT 1기 Couphone 팀 프로젝트 레포지토리! 
 - 작업 기간 (2023. 07 ~ 08.10)
 ---

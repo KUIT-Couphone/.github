@@ -1,7 +1,7 @@
 # Couphone (📝 작성중 08.12.~)
 
 ---
-<img src="https://github.com/KUIT-Couphone/.github/assets/96612168/cf8afda4-1784-4048-964e-36e8edb8d0fe" alt="Example Image" width="600" height="300">
+<img src="https://github.com/KUIT-Couphone/.github/assets/96612168/cf8afda4-1784-4048-964e-36e8edb8d0fe" alt="Example Image" width="650" height="400">
 
 ## 👨‍💻 Contributors
 | Android, PM | Android  | Android  | Android |  Backend  | Backend  | Backend |

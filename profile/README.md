@@ -1,5 +1,5 @@
 # Couphone 
-### KUIT 1기 Couphone 팀 프로젝트 레포지토리! 
+### 👪 KUIT 1기 Couphone 팀 프로젝트 레포지토리! 
 ---
 <img src="https://github.com/KUIT-Couphone/.github/assets/96612168/cf8afda4-1784-4048-964e-36e8edb8d0fe" alt="Example Image" width="650" height="400">
 
